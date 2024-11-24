@@ -1,5 +1,5 @@
 #baseURL = 'https://oscmartin56.github.io/paginaHugo/'
-baseURL = 'https://malejandror.github.io/paginaHugo/'
+baseURL = 'https://malejandror.github.io//paginaHugoOscarMartin/'
 languageCode = "en-en"
 title = 'Web de Óscar'
 theme = "hugoblog"
