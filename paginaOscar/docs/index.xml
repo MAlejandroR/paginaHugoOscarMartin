@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Inicio on Web de Óscar</title>
-    <link>https://oscmartin56.github.io/paginaHugo/</link>
+    <link>https://malejandror.github.io//paginaHugoOscarMartin/</link>
     <description>Recent content in Inicio on Web de Óscar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-en</language>
-    <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="https://oscmartin56.github.io/paginaHugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Oct 2024 11:01:25 +0200</lastBuildDate><atom:link href="https://malejandror.github.io//paginaHugoOscarMartin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PlantillaJason</title>
-      <link>https://oscmartin56.github.io/paginaHugo/canalestv/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/canalestv/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/canalestv/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/canalestv/</guid>
       
       <description>&lt;h1 id=&#34;listado-de-de-canales&#34;&gt;Listado de de canales&lt;/h1&gt;</description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Amigos</title>
-      <link>https://oscmartin56.github.io/paginaHugo/amigos/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/amigos/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/amigos/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/amigos/</guid>
       
       <description>&lt;p&gt;Unas cuantas fotos de mis amigos y yo en estos ultimos años.&lt;/p&gt;
 &lt;hr&gt;
@@ -47,10 +47,10 @@
     
     <item>
       <title>Markdown Extendido</title>
-      <link>https://oscmartin56.github.io/paginaHugo/markdownextendido/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/markdownextendido/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/markdownextendido/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/markdownextendido/</guid>
       
       <description>&lt;p&gt;Markdown extendido incluye elementos avanzados como tablas, bloques de código, citas, y enlaces detallados. Es ideal para documentación técnica o contenido más estructurado.&lt;/p&gt;
 &lt;p&gt;Características principales:
@@ -64,10 +64,10 @@ Enlaces y recursos: Hipervínculos a documentación o archivos externos.&lt;/p&g
     
     <item>
       <title>Sobre mi</title>
-      <link>https://oscmartin56.github.io/paginaHugo/inicio/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/inicio/</link>
       <pubDate>Mon, 14 Oct 2024 11:01:25 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/inicio/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/inicio/</guid>
       
       <description>&lt;p&gt;&lt;img src=&#34;yo.jpg&#34; alt=&#34;Foto mia&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;sobre-mí&#34;&gt;Sobre mí&lt;/h1&gt;
@@ -91,10 +91,10 @@ Mis habilidades principales son mis capacidades de desarrollo antes problemas co
     
     <item>
       <title>Java</title>
-      <link>https://oscmartin56.github.io/paginaHugo/java/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/java/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/java/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/java/</guid>
       
       <description>&lt;h1 id=&#34;1-introducción-a-java&#34;&gt;1. Introducción a Java&lt;/h1&gt;
 &lt;p&gt;Java es un lenguaje de programación orientado a objetos, diseñado para ser portátil, seguro y escalable. Su sintaxis es similar a C++, y permite crear aplicaciones para diversos dispositivos, como móviles y servidores.&lt;/p&gt;
@@ -114,10 +114,10 @@ Ejemplo de declaración de variables:&lt;/p&gt;</description>
     
     <item>
       <title>Markdown Básico</title>
-      <link>https://oscmartin56.github.io/paginaHugo/markdownbasico/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/markdownbasico/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/markdownbasico/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/markdownbasico/</guid>
       
       <description>&lt;h2 id=&#34;edición-básica&#34;&gt;Edición Básica&lt;/h2&gt;
 &lt;h3 id=&#34;titulos&#34;&gt;Titulos&lt;/h3&gt;
@@ -143,10 +143,10 @@ Ejemplo de declaración de variables:&lt;/p&gt;</description>
     
     <item>
       <title>Markdown Gráfico</title>
-      <link>https://oscmartin56.github.io/paginaHugo/markdowngrafico/</link>
+      <link>https://malejandror.github.io//paginaHugoOscarMartin/markdowngrafico/</link>
       <pubDate>Fri, 04 Oct 2024 14:01:01 +0200</pubDate>
       
-      <guid>https://oscmartin56.github.io/paginaHugo/markdowngrafico/</guid>
+      <guid>https://malejandror.github.io//paginaHugoOscarMartin/markdowngrafico/</guid>
       
       <description>&lt;p&gt;Markdown gráfico se especializa en mostrar contenido visual, como imágenes, diagramas, gráficos y elementos relacionados. Es ideal para galerías de fotos o ilustrar conceptos visuales.&lt;/p&gt;
 &lt;p&gt;Características principales:

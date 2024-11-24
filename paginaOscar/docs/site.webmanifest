@@ -1,18 +1,18 @@
 {
     "name": "Web de Óscar",
     "short_name": "Web de Óscar",
-    "start_url": "https://oscmartin56.github.io/paginaHugo/",
+    "start_url": "https://malejandror.github.io//paginaHugoOscarMartin/",
     "theme_color": "#434648",
     "background_color": "#ffffff",
     "display": "standalone",
     "icons": [
         {
-            "src": "/paginaHugo/icons/android-chrome-192x192.png",
+            "src": "//paginaHugoOscarMartin/icons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/paginaHugo/icons/android-chrome-512x512.png",
+            "src": "//paginaHugoOscarMartin/icons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
