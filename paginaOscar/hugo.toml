@@ -2,7 +2,6 @@
 baseURL = 'https://malejandror.github.io/paginaHugoOscarMartin/'
 languageCode = "en-en"
 title = 'Web de Óscar'
-theme = "hugoblog"
 
 [menu]
   [[menu.main]]

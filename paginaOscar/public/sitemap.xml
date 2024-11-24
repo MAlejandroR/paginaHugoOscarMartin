@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/paginaHugo/canalestv/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/canalestv/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/amigos/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/amigos/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/inicio/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/markdownextendido/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/markdownextendido/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/inicio/</loc>
     <lastmod>2024-10-14T11:01:25+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/java/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/java/</loc>
     <lastmod>2024-10-04T14:01:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/markdownbasico/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/markdownbasico/</loc>
     <lastmod>2024-10-04T14:01:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/markdowngrafico/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/markdowngrafico/</loc>
     <lastmod>2024-10-04T14:01:01+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/categories/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/paginaHugo/tags/</loc>
+    <loc>http://localhost:1313/paginaHugoOscarMartin/tags/</loc>
   </url>
 </urlset>
