@@ -32,15 +32,15 @@ jobs:
     # Clono el repositorio
       - name: Checkout
         uses: actions/checkout@v4
-# Instalo hugo
+     # Instalo hugo
       - name: Setup Hugo
         run: |
           sudo apt-get update
           sudo apt-get install hugo -y
-# Clono el repositorio
+      # Clono el repositorio
       - name: build hugo site
         run: hugo --minify
-# Subir el contenido general a GitHub Pages
+      # Subir el contenido general a GitHub Pages
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
