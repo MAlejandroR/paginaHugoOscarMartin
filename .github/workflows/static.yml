@@ -44,11 +44,11 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
-        uses: action/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v3
         with:
          #solo los ficheros generados en ./public
            path: './public'
       - name: deploy to github pages
         id: deployment
-        uses: action/deploy-pages@v4
+        uses: actions/deploy-pages@v4
      
